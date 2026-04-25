@@ -1,0 +1,3 @@
+[submodule "waypoint-generation"]
+	path = waypoint-generation
+	url = https://github.com/cornellev/waypoint-generation.git

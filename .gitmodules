@@ -4,3 +4,6 @@
 [submodule "ackermann-jax"]
 	path = ackermann-jax
 	url = https://github.com/cornellev/ackermann-jax
+[submodule "dynamic-box"]
+	path = dynamic-box
+	url = git@github.com:cornellev/dynamic-box.git
